@@ -25,7 +25,7 @@ Person.prototype.walk = (): void => {
 
 const john = new Person("John");
 
-console.log(values(john));
-console.log(values({ id: 31, duration: 310, name: "long video", format: "mp4" }));
+// console.log(values(john));
+// console.log(values({ id: 31, duration: 310, name: "long video", format: "mp4" }));
 
 export default values;

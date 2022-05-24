@@ -1,4 +1,3 @@
-/* Find the biggest word in a phrase. It will always return the first word */
 const biggestWord = (phrase: string): string => {
   const phraseArray: string[] = phrase.split(" ");
   if(!phraseArray.length)

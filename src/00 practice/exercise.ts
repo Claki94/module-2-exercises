@@ -1,8 +1,10 @@
 import "./biggest-word.js";
 import "./califications.js";
 import "./check-arguments.js";
+import "./merge.js";
+import "./deep-equal.js";
 
-console.log("************** PRACTICE *********************");
-console.log("Use folder 00 practice to practice with homework exercises");
-console.log("You can add new files as long as they are imported from index.ts");
+// console.log("************** PRACTICE *********************");
+// console.log("Use folder 00 practice to practice with homework exercises");
+// console.log("You can add new files as long as they are imported from index.ts");
 
