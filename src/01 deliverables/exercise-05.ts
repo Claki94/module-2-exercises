@@ -42,9 +42,9 @@ class SlotMachine {
   }
 }
 
-const machine1 = new SlotMachine();
-machine1.play();
-machine1.play();
-machine1.play();
-machine1.play();
-machine1.play();
+// const machine1 = new SlotMachine();
+// machine1.play();
+// machine1.play();
+// machine1.play();
+// machine1.play();
+// machine1.play();

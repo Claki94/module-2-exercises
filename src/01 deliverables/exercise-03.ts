@@ -39,9 +39,9 @@ const b = {
   country: { id: 2, value: "GBP" },
 };
 
-console.log("** MERGE CLONE **");
-console.log("Merge clone: ", merge(a, b));
-console.log("Original a object: ", a);
-console.log("Original b object: ", b);
-console.log("----------------------------------");
+// console.log("** MERGE CLONE **");
+// console.log("Merge clone: ", merge(a, b));
+// console.log("Original a object: ", a);
+// console.log("Original b object: ", b);
+// console.log("----------------------------------");
 

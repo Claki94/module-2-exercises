@@ -11,10 +11,10 @@ const head = (array: any[]): any => {
     return firstElement;
 }
 
-console.log("** HEAD EXERCISE **");
-console.log("Original: ", numberArray);
-console.log("First element: ", head(numberArray));
-console.log("----------------------------------");
+// console.log("** HEAD EXERCISE **");
+// console.log("Original: ", numberArray);
+// console.log("First element: ", head(numberArray));
+// console.log("----------------------------------");
 
 /* Function which returns the array without the first element */
 const tail = (array: any[]): any[] => {
@@ -25,10 +25,10 @@ const tail = (array: any[]): any[] => {
   return restElements;
 }
 
-console.log("** TAIL EXERCISE **");
-console.log("Original: ", numberArray);
-console.log("Tail: ", tail(numberArray));
-console.log("----------------------------------");
+// console.log("** TAIL EXERCISE **");
+// console.log("Original: ", numberArray);
+// console.log("Tail: ", tail(numberArray));
+// console.log("----------------------------------");
 
 /* Function which returns the array without the last element */
 const init = (array: any[]): any[] => {
@@ -41,10 +41,10 @@ const init = (array: any[]): any[] => {
   return copyArray;
 }
 
-console.log("** INIT EXERCISE **");
-console.log("Original: ", numberArray);
-console.log("Init: ", init(numberArray));
-console.log("----------------------------------");
+// console.log("** INIT EXERCISE **");
+// console.log("Original: ", numberArray);
+// console.log("Init: ", init(numberArray));
+// console.log("----------------------------------");
 
 /* Function which returns the last element of an array */
 const last = (array: any[]): any => {
@@ -54,7 +54,7 @@ const last = (array: any[]): any => {
   return array[array.length-1];
 }
 
-console.log("** LAST EXERCISE **");
-console.log("Original: ", numberArray);
-console.log("Last: ", last(numberArray));
-console.log("----------------------------------");
+// console.log("** LAST EXERCISE **");
+// console.log("Original: ", numberArray);
+// console.log("Last: ", last(numberArray));
+// console.log("----------------------------------");
