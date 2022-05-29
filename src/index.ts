@@ -6,3 +6,4 @@ import "./01 deliverables/exercise-04.js";
 import "./01 deliverables/exercise-05.js";
 import "./02 challenges/exercise.js";
 import "./02 challenges/flattening-arrays.js";
+import "./02 challenges/deep-access.js";

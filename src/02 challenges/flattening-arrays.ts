@@ -2,7 +2,7 @@ console.log("** FLATTENING ARRAYS **");
 
 const sample = [1, [2, 3], [[4], [5, 6, [7, 8, [9]]]], [[10, 11, 12, [13]], [14, 15,[16, 17]]]];
 
-/* Function which returns a flatt array from a multidimensional array */
+/* Function which returns a flat array from a multidimensional array */
 const flattArray = (array: any[]): any[] => {
   let result: any[] = [];
 
